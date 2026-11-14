@@ -8,24 +8,42 @@
   Content-Type: application/json
 /read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/text
   Content-Type: application/json
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch-LNFfG6giHIi9.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch-El2c699ZSUjp.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part1-Zw6_O4a8.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch-El2c699ZSUjp.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part1-4IIeB3hu.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part2-LPRPFabW.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part1-4IIeB3hu.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part2-qrgnmXx_.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part3-lmzbyIpx.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part2-qrgnmXx_.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part3-PKpe9W5Z.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part4-492tW4nO.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part3-PKpe9W5Z.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part4-OEcm82Dn.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part5-pXcsB6cy.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part4-OEcm82Dn.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part5-okgct3WV.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part6-dcXlaTap.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part5-okgct3WV.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part6-MXq8DQqB.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part7-IkfNDAmF.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part6-MXq8DQqB.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part7-2avXFDW3.mp4
   Content-Type: video/mp4
-/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part8-0g94m0uw.mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part7-2avXFDW3.vtt
+  Content-Type: text/vtt; charset=utf-8
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part8-CCE3R6ad.mp4
   Content-Type: video/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ch1-part8-CCE3R6ad.vtt
+  Content-Type: text/vtt; charset=utf-8
 /read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/say-bi4oap4nUqGG.m4a
   Content-Type: audio/mp4
 /read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/say-NJihqhovf90B.m4a
@@ -33,6 +51,88 @@
 /read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/say-lAbOTgmgKEHY.m4a
   Content-Type: audio/mp4
 /read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/say--0xeJA7sAYOm.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-4iBVO8OyRNDu.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-DJ6qUv8pXTyG.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-l24l6ciureBT.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra--bTSOLosLOPL.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-CdHBdsCH9UQn.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-MXTw7DHslrY2.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-_Z_iNprdZs-A.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-DxeZXlBr5csM.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-sVROPT7TsRkJ.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-_XzMPl8WA6-1.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-khqGUNdtfHqd.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-OhY_wq6Gh-KI.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-lC4o-wgq8dS4.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-6lk__mM9djIw.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-EXpdtT95Cu6u.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-M9mThwhzb8Fe.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-eBau_O2nT_uc.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-BDvXoejF2XOf.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-ioWZZd9ENbxR.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-2z3tzNGQR3gD.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra--xmRx4Q3D6zB.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-OPV_z61DNnSY.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-Zrwr1epXx88r.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-MaAD65WS7uZb.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-6iE8Wfh0tyTc.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-ePLxg524LloR.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-cvYQSX7HkBLA.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-CMibjqootuCE.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-NWJuYrHOJ7mu.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-41A70czB-oja.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-KtWyPJbBckT9.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-8Kzp4wwWAyYg.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-dekm5pyukWdJ.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-82T-93A4VISC.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-Rcifuph-IOA4.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-6EtvwVXD8_yO.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra--8R7kqiJIJFa.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-WamVI3LOjuv7.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-oopmlqLcQdy_.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-Q27mDVzzR1ip.m4a
+  Content-Type: audio/mp4
+/read/vKZN5OfsFsEeM3d7Mcn53BZwqdhNLG2Q/m/ra-0R51_jnyUBtZ.m4a
   Content-Type: audio/mp4
 /*
   X-Robots-Tag: noindex

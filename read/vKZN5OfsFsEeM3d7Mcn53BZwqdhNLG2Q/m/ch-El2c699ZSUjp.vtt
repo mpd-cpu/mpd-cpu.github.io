@@ -1,0 +1,466 @@
+WEBVTT
+
+00:00:02.200 --> 00:00:05.350
+Chapter 1. Data Storage and Memory.
+
+00:00:07.200 --> 00:00:10.575
+Computer memory is like the computer's brain.
+
+00:00:10.925 --> 00:00:13.725
+It helps the computer to remember things.
+
+00:00:14.075 --> 00:00:17.597
+Just like we remember our favourite stories or games,
+
+00:00:17.597 --> 00:00:21.850
+the computer needs memory to remember its tasks and information.
+
+00:00:23.700 --> 00:00:25.600
+Learning Outcomes.
+
+00:00:25.950 --> 00:00:29.275
+Understand the meaning of data and information.
+
+00:00:29.625 --> 00:00:32.675
+Know about computer memory and its types.
+
+00:00:33.025 --> 00:00:36.700
+Learn types of storage devices and their uses.
+
+00:00:38.550 --> 00:00:43.814
+Tia, Have you ever wondered how a computer remembers all our games and pictures?
+
+00:00:44.164 --> 00:00:48.577
+I'm not sure, Niha. How does it do that?
+
+00:00:48.927 --> 00:00:54.790
+Well, it's like how we keep our toys safe in boxes, a computer has a storage place.
+
+00:00:55.140 --> 00:01:03.154
+Oh, I get it, Niha. So, the computer has special places to keep its things?
+
+00:01:03.504 --> 00:01:07.569
+Exactly, Tia! We'll learn more about it and how it works.
+
+00:01:07.919 --> 00:01:13.836
+That sounds interesting, Niha. Let's explore it together!
+
+00:01:15.686 --> 00:01:17.911
+Data vs Information
+
+00:01:18.261 --> 00:01:21.961
+Data refers to raw facts in unprocessed form.
+
+00:01:22.311 --> 00:01:25.561
+The word "data" is a plural form of "datum".
+
+00:01:25.911 --> 00:01:31.386
+When data is processed, organized, structured or presented in a meaningful way,
+
+00:01:31.386 --> 00:01:33.811
+then it is called as "Information".
+
+00:01:35.661 --> 00:01:38.036
+It is not enough to have data.
+
+00:01:38.386 --> 00:01:40.811
+Data themselves is useless.
+
+00:01:41.161 --> 00:01:46.936
+But when this data is processed, it becomes useful and can be called as Information.
+
+00:01:48.786 --> 00:01:50.361
+Example
+
+00:01:50.711 --> 00:01:54.311
+We know that CPU is the brain of a computer.
+
+00:01:54.661 --> 00:01:58.011
+It controls all the functions of a computer.
+
+00:01:58.361 --> 00:02:01.411
+It processes data and gives results.
+
+00:02:03.261 --> 00:02:06.586
+Computers can store large amounts of data.
+
+00:02:06.936 --> 00:02:09.811
+We can retrieve the data as we need it.
+
+00:02:11.661 --> 00:02:13.161
+MEMORY
+
+00:02:13.511 --> 00:02:17.436
+Computer memory is very similar to the human brain.
+
+00:02:17.786 --> 00:02:21.811
+It is used to store data and instructions given to it.
+
+00:02:22.161 --> 00:02:26.636
+It can store the information either temporarily or permanently.
+
+00:02:28.486 --> 00:02:33.411
+In computers, memory is a device that is used to store information.
+
+00:02:33.761 --> 00:02:37.061
+A computer can store the program in its memory.
+
+00:02:37.411 --> 00:02:40.367
+When a certain program starts on the computer,
+
+00:02:40.367 --> 00:02:43.836
+first of all, it is loaded into the computer's memory.
+
+00:02:44.186 --> 00:02:47.636
+A computer can load many programs in its memory.
+
+00:02:49.486 --> 00:02:54.687
+Faster the memory of the computer is, faster is the speed of opening of the
+
+00:02:54.687 --> 00:02:55.311
+programs.
+
+00:02:57.161 --> 00:02:58.736
+Example
+
+00:02:59.086 --> 00:03:03.586
+Now, we will learn about memory and various storage devices.
+
+00:03:05.436 --> 00:03:07.161
+TYPES OF MEMORY
+
+00:03:07.511 --> 00:03:11.661
+The computer memory can be classified into the following types:
+
+00:03:13.511 --> 00:03:15.261
+Primary memory
+
+00:03:15.611 --> 00:03:17.436
+Secondary memory
+
+00:03:19.286 --> 00:03:21.761
+Primary or Internal memory
+
+00:03:22.111 --> 00:03:26.836
+Primary memory is also known as the internal or main memory.
+
+00:03:27.186 --> 00:03:30.861
+A computer cannot run without the primary memory.
+
+00:03:31.211 --> 00:03:37.445
+It is used to store data or information that the CPU needs to access directly and
+
+00:03:37.445 --> 00:03:38.061
+quickly.
+
+00:03:39.911 --> 00:03:43.611
+The Primary memory can be divided into two parts
+
+00:03:43.961 --> 00:03:46.336
+RAM (Random Access Memory)
+
+00:03:46.686 --> 00:03:48.786
+ROM (Read only Memory)
+
+00:03:50.636 --> 00:03:52.136
+RAM
+
+00:03:52.486 --> 00:03:57.811
+When we refer to the computer's primary memory, we actually refer to RAM.
+
+00:03:58.161 --> 00:04:02.236
+It is used by the computer to store data for processing.
+
+00:04:02.586 --> 00:04:07.311
+If the computer is switched off, the data in RAM will be lost.
+
+00:04:07.661 --> 00:04:11.836
+Hence, RAM is referred to as volatile memory.
+
+00:04:13.686 --> 00:04:15.061
+ROM
+
+00:04:15.411 --> 00:04:20.916
+It stores permanent instructions required for the proper functioning of a computer
+
+00:04:20.916 --> 00:04:21.386
+system.
+
+00:04:21.736 --> 00:04:26.061
+These instructions are stored by the manufacturer of the computer.
+
+00:04:26.411 --> 00:04:31.275
+ROM is a non-volatile memory, as data stored in it is not lost,
+
+00:04:31.275 --> 00:04:34.286
+even when the computer is switched off.
+
+00:04:36.136 --> 00:04:37.961
+Secondary Memory
+
+00:04:38.311 --> 00:04:41.736
+The primary memory is limited and temporary.
+
+00:04:42.086 --> 00:04:47.144
+Therefore, there is a need for secondary memory that can be used to store large
+
+00:04:47.144 --> 00:04:48.936
+amounts of data permanently.
+
+00:04:49.286 --> 00:04:54.086
+The data remains there even when the power to the computer is switched off.
+
+00:04:55.936 --> 00:05:00.111
+Some commonly used secondary storage device are as follows
+
+00:05:00.461 --> 00:05:02.061
+Hard Disk
+
+00:05:02.411 --> 00:05:04.111
+Compact Disc
+
+00:05:04.461 --> 00:05:07.286
+DVD (Digital Versatile Disk)
+
+00:05:07.636 --> 00:05:09.236
+Pen drive
+
+00:05:09.586 --> 00:05:11.286
+Memory Card
+
+00:05:13.136 --> 00:05:14.736
+Hard Disk
+
+00:05:15.086 --> 00:05:19.036
+A hard disk is the main secondary storage device.
+
+00:05:19.386 --> 00:05:23.736
+A hard disk is a device fixed inside the CPU box.
+
+00:05:24.086 --> 00:05:26.811
+It can store a huge amount of data.
+
+00:05:28.661 --> 00:05:32.611
+All the work done on a computer can be stored on a hard disk.
+
+00:05:32.961 --> 00:05:37.361
+We can read and write data on this device any number of times.
+
+00:05:39.211 --> 00:05:41.086
+TYPES OF HARD DISKS
+
+00:05:41.436 --> 00:05:44.061
+Let us see different types of hard disks.
+
+00:05:45.911 --> 00:05:47.836
+INTERNAL HARD DISK
+
+00:05:48.186 --> 00:05:53.767
+The internal hard disk is the main secondary storage device that is permanently
+
+00:05:53.767 --> 00:05:55.886
+installed inside the computer.
+
+00:05:56.236 --> 00:06:01.223
+It can store a huge amount of data that includes the operating system,
+
+00:06:01.223 --> 00:06:05.069
+application programs and other data, including images,
+
+00:06:05.069 --> 00:06:08.061
+documents, music and videos on a computer.
+
+00:06:08.411 --> 00:06:12.363
+The hard disk is usually given a label such as C:
+
+00:06:12.363 --> 00:06:15.186
+or D: called as C drive or D drive.
+
+00:06:17.036 --> 00:06:18.911
+EXTERNAL HARD DISK
+
+00:06:19.261 --> 00:06:25.411
+An external hard disk is a removable hard disk that connects to a computer through a
+
+00:06:25.411 --> 00:06:26.436
+USB connector.
+
+00:06:26.786 --> 00:06:32.429
+You can plug in an external hard disk into multiple computers and use it as a
+
+00:06:32.429 --> 00:06:34.261
+removable storage device.
+
+00:06:34.611 --> 00:06:39.786
+An external hard disk is, however, slower than an internal hard disk.
+
+00:06:41.636 --> 00:06:43.086
+CD
+
+00:06:43.436 --> 00:06:46.911
+A compact disc is a type of optical media.
+
+00:06:47.261 --> 00:06:50.661
+It can store up to 700 MB of data.
+
+00:06:51.011 --> 00:06:56.603
+These are circular in shape and are used mainly for storing audio-visual data in
+
+00:06:56.603 --> 00:06:57.511
+digital form.
+
+00:06:59.361 --> 00:07:00.936
+DVD
+
+00:07:01.286 --> 00:07:07.715
+DVD is another type of optical media used for storing digital data such as videos,
+
+00:07:07.715 --> 00:07:09.361
+movies and softwares.
+
+00:07:09.711 --> 00:07:15.236
+It is similar to a CD, but it can store ten times more data than a CD.
+
+00:07:15.586 --> 00:07:20.936
+The video quality of a DVD is also much better than that of a CD.
+
+00:07:22.786 --> 00:07:24.361
+Pendrive
+
+00:07:24.711 --> 00:07:30.596
+A pendrive is a storage device which is small in size and can be easily carried in a
+
+00:07:30.596 --> 00:07:31.086
+pocket.
+
+00:07:31.436 --> 00:07:34.186
+It can store large amounts of data.
+
+00:07:34.536 --> 00:07:39.947
+It is mostly used to transfer data quickly and efficiently from one computer to
+
+00:07:39.947 --> 00:07:41.111
+another computer.
+
+00:07:41.461 --> 00:07:47.445
+It has to be inserted into a computer's USB port to store or retrieve information
+
+00:07:47.445 --> 00:07:48.036
+from it.
+
+00:07:49.886 --> 00:07:51.586
+Memory Card
+
+00:07:51.936 --> 00:07:56.186
+A memory card is a very small compact storage device.
+
+00:07:56.536 --> 00:07:59.825
+It is mainly used in cameras, music players,
+
+00:07:59.825 --> 00:08:03.487
+and smartphones to store pictures, songs, movies,
+
+00:08:03.487 --> 00:08:03.786
+etc.
+
+00:08:05.636 --> 00:08:07.336
+MEMORY UNITS
+
+00:08:07.686 --> 00:08:11.986
+Data stored in the memory is measured in the units such as bits,
+
+00:08:11.986 --> 00:08:16.286
+bytes, kilobytes, megabytes, gigabytes, terabytes and petabytes.
+
+00:08:16.636 --> 00:08:22.286
+Bit: A bit (short for binary digit) is the smallest unit of data in a computer.
+
+00:08:22.636 --> 00:08:26.761
+A bit has a single binary value, either 0 or 1.
+
+00:08:28.611 --> 00:08:31.186
+Byte: Combination of 8 bits.
+
+00:08:31.536 --> 00:08:35.511
+One byte stores one character such as any letter 'k',
+
+00:08:35.511 --> 00:08:38.436
+'a' or any other symbol like @, $, etc.
+
+00:08:40.286 --> 00:08:41.711
+Nibble
+
+00:08:42.061 --> 00:08:44.811
+Half a byte (four bits) is called Nibble.
+
+00:08:45.161 --> 00:08:50.911
+The bits in a byte are normally numbered from zero to seven using the convention as
+
+00:08:50.911 --> 00:08:51.811
+shown below :
+
+00:08:53.661 --> 00:08:56.011
+MEASURING THE COMPUTER'S MEMORY
+
+00:08:56.361 --> 00:08:59.261
+One file can be of thousands of bytes.
+
+00:08:59.611 --> 00:09:02.599
+So, instead of using bytes to measure data,
+
+00:09:02.599 --> 00:09:05.865
+we can also use higher units such as kilobytes,
+
+00:09:05.865 --> 00:09:09.061
+megabytes, gigabytes, terabytes and petabytes.
+
+00:09:09.411 --> 00:09:13.886
+Both computer memory and disk space are measured in these units.
+
+00:09:15.736 --> 00:09:19.311
+1 Bit = Binary Digit (0 or 1)
+
+00:09:19.661 --> 00:09:21.936
+1 Byte = 8 Bits
+
+00:09:22.286 --> 00:09:26.361
+1024 Bytes = 1 Kilo Byte
+
+00:09:26.711 --> 00:09:31.711
+1024 Kilo Bytes (KB) = 1 Mega Byte
+
+00:09:32.061 --> 00:09:36.686
+1024 Mega Bytes (MB) = 1 Giga Byte
+
+00:09:38.536 --> 00:09:43.611
+1024 Giga Bytes (GB) = 1 Tera Byte
+
+00:09:43.961 --> 00:09:48.936
+1024 Tera Bytes (TB) = 1 Peta Byte
+
+00:09:49.286 --> 00:09:54.236
+1024 Peta Bytes (PB) = 1 Exa Byte
+
+00:09:54.586 --> 00:09:59.511
+1024 Exa Bytes (EB) = 1 Zetta Byte
+
+00:09:59.861 --> 00:10:04.886
+1024 Zetta Bytes (ZB) = 1 Yotta Byte
+
+00:10:06.736 --> 00:10:11.936
+You enter data and instruction into the computer using input devices.
+
+00:10:12.286 --> 00:10:18.111
+The data and instructions are stored inside the computer in some storage devices.
+
+00:10:18.461 --> 00:10:22.936
+Primary memory and secondary memory are the two types of memory.
+
+00:10:23.286 --> 00:10:30.561
+Some commonly used secondary devices are Hard disk, Pen drive, DVD, CD, etc.
+
+00:10:30.911 --> 00:10:35.261
+Primary memory is of two types- RAM and ROM.
+
+00:10:35.611 --> 00:10:39.986
+The data stored on the computers is handled in terms of bits.

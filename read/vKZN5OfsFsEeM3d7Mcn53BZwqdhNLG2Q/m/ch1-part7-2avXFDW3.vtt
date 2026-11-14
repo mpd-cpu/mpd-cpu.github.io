@@ -1,0 +1,85 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:02.300
+MEMORY UNITS
+
+00:00:02.650 --> 00:00:06.950
+Data stored in the memory is measured in the units such as bits,
+
+00:00:06.950 --> 00:00:11.250
+bytes, kilobytes, megabytes, gigabytes, terabytes and petabytes.
+
+00:00:11.600 --> 00:00:17.250
+Bit: A bit (short for binary digit) is the smallest unit of data in a computer.
+
+00:00:17.600 --> 00:00:21.725
+A bit has a single binary value, either 0 or 1.
+
+00:00:23.575 --> 00:00:26.150
+Byte: Combination of 8 bits.
+
+00:00:26.500 --> 00:00:30.475
+One byte stores one character such as any letter 'k',
+
+00:00:30.475 --> 00:00:33.400
+'a' or any other symbol like @, $, etc.
+
+00:00:35.250 --> 00:00:36.675
+Nibble
+
+00:00:37.025 --> 00:00:39.775
+Half a byte (four bits) is called Nibble.
+
+00:00:40.125 --> 00:00:45.875
+The bits in a byte are normally numbered from zero to seven using the convention as
+
+00:00:45.875 --> 00:00:46.775
+shown below :
+
+00:00:48.625 --> 00:00:50.975
+MEASURING THE COMPUTER'S MEMORY
+
+00:00:51.325 --> 00:00:54.225
+One file can be of thousands of bytes.
+
+00:00:54.575 --> 00:00:57.563
+So, instead of using bytes to measure data,
+
+00:00:57.563 --> 00:01:00.829
+we can also use higher units such as kilobytes,
+
+00:01:00.829 --> 00:01:04.025
+megabytes, gigabytes, terabytes and petabytes.
+
+00:01:04.375 --> 00:01:08.850
+Both computer memory and disk space are measured in these units.
+
+00:01:10.700 --> 00:01:14.275
+1 Bit = Binary Digit (0 or 1)
+
+00:01:14.625 --> 00:01:16.900
+1 Byte = 8 Bits
+
+00:01:17.250 --> 00:01:21.325
+1024 Bytes = 1 Kilo Byte
+
+00:01:21.675 --> 00:01:26.675
+1024 Kilo Bytes (KB) = 1 Mega Byte
+
+00:01:27.025 --> 00:01:31.650
+1024 Mega Bytes (MB) = 1 Giga Byte
+
+00:01:33.500 --> 00:01:38.575
+1024 Giga Bytes (GB) = 1 Tera Byte
+
+00:01:38.925 --> 00:01:43.900
+1024 Tera Bytes (TB) = 1 Peta Byte
+
+00:01:44.250 --> 00:01:49.200
+1024 Peta Bytes (PB) = 1 Exa Byte
+
+00:01:49.550 --> 00:01:54.475
+1024 Exa Bytes (EB) = 1 Zetta Byte
+
+00:01:54.825 --> 00:01:59.850
+1024 Zetta Bytes (ZB) = 1 Yotta Byte

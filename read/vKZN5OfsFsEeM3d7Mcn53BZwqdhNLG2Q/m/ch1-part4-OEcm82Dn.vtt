@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:00.600 --> 00:00:02.325
+TYPES OF MEMORY
+
+00:00:02.675 --> 00:00:06.825
+The computer memory can be classified into the following types:
+
+00:00:08.675 --> 00:00:10.425
+Primary memory
+
+00:00:10.775 --> 00:00:12.600
+Secondary memory
+
+00:00:14.450 --> 00:00:16.925
+Primary or Internal memory
+
+00:00:17.275 --> 00:00:22.000
+Primary memory is also known as the internal or main memory.
+
+00:00:22.350 --> 00:00:26.025
+A computer cannot run without the primary memory.
+
+00:00:26.375 --> 00:00:32.609
+It is used to store data or information that the CPU needs to access directly and
+
+00:00:32.609 --> 00:00:33.225
+quickly.
+
+00:00:35.075 --> 00:00:38.775
+The Primary memory can be divided into two parts
+
+00:00:39.125 --> 00:00:41.500
+RAM (Random Access Memory)
+
+00:00:41.850 --> 00:00:43.950
+ROM (Read only Memory)
+
+00:00:45.800 --> 00:00:47.300
+RAM
+
+00:00:47.650 --> 00:00:52.975
+When we refer to the computer's primary memory, we actually refer to RAM.
+
+00:00:53.325 --> 00:00:57.400
+It is used by the computer to store data for processing.
+
+00:00:57.750 --> 00:01:02.475
+If the computer is switched off, the data in RAM will be lost.
+
+00:01:02.825 --> 00:01:07.000
+Hence, RAM is referred to as volatile memory.
+
+00:01:08.850 --> 00:01:10.225
+ROM
+
+00:01:10.575 --> 00:01:16.080
+It stores permanent instructions required for the proper functioning of a computer
+
+00:01:16.080 --> 00:01:16.550
+system.
+
+00:01:16.900 --> 00:01:21.225
+These instructions are stored by the manufacturer of the computer.
+
+00:01:21.575 --> 00:01:26.439
+ROM is a non-volatile memory, as data stored in it is not lost,
+
+00:01:26.439 --> 00:01:29.450
+even when the computer is switched off.
