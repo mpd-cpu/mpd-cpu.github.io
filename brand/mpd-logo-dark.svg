@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="60 40 700 540" role="img" aria-label="Mod Print Design">
+  <!-- MOD PRINT DESIGN stacked wordmark (from the brand kit's mpd-logo.svg; no web-font import so it works offline). -->
+  <style>
+    .t { font-family: 'Inter Tight', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; letter-spacing: -0.04em; }
+  </style>
+  <text x="400" y="240" text-anchor="middle" class="t" font-size="240" fill="#D9D9D9">MOD</text>
+  <text x="400" y="430" text-anchor="middle" class="t" font-size="190" fill="#D9D9D9">PRINT</text>
+  <text x="700" y="115" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="44" fill="#D9D9D9">TM</text>
+  <text x="400" y="555" text-anchor="middle" class="t" font-size="120" fill="#F26B2A">DESIGN</text>
+</svg>
